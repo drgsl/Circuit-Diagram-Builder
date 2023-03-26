@@ -9,15 +9,18 @@ Please note that this project is still in development and does not yet have a si
 ## 🚀 Getting Started
 To use this project, you will need to have Code::Blocks installed with the WinBGIm library.
 
-### Building From Source
+### Building From Source (using Code::Blocks)
 To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Open the Electron.cbp file with Code::Blocks.
+2. Open the [Electron.cbp](https://github.com/BobuDragos/Circuit-Diagram-Builder/blob/main/Electron/Electron.cbp) file with Code::Blocks.
 3. Build and run the project.
 
 ### Windows Executable
-If you just want to execute the software, you can find the Windows executable under `Bin/Debug`.
+If you just want to execute the software, you can find [this Windows executable](https://github.com/BobuDragos/Circuit-Diagram-Builder/blob/main/Electron/bin/Debug/Electron%20prof.exe) under `Bin/Debug`.
+
+### Linux Building from Source
+You'll have to build the [c++ Source Code](https://github.com/BobuDragos/Circuit-Diagram-Builder/blob/main/Electron/unitedCode.cpp) using `gcc`
 
 If you encounter any issues, feel free to open an issue in the repository.
 ## 📝 License
