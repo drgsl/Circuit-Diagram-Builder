@@ -7,7 +7,7 @@ This project allows you to create and visualize electronic circuits using a grap
 Please note that this project is still in development and does not yet have a simulation feature.
 
 ## 🚀 Getting Started
-To use this project, you will need to have Code::Blocks installed with the WinBGIm library.
+To use this project, you will need to have Code::Blocks installed with the [WinBGIm](https://home.cs.colorado.edu/~main/bgi/dev-c++/) library.
 
 ### Building From Source (using Code::Blocks)
 To get started with this project, follow these steps:
