@@ -9,13 +9,17 @@ Please note that this project is still in development and does not yet have a si
 ## 🚀 Getting Started
 To use this project, you will need to have Code::Blocks installed with the WinBGIm library.
 
+### Building From Source
 To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Open the circuit_diagram_builder.cbp file with Code::Blocks.
+2. Open the Electron.cbp file with Code::Blocks.
 3. Build and run the project.
-If you encounter any issues, feel free to open an issue in the repository.
 
+### Windows Executable
+If you just want to execute the software, you can find the Windows executable under `Bin/Debug`.
+
+If you encounter any issues, feel free to open an issue in the repository.
 ## 📝 License
 This project is released under the GNU General Public License v3.0.
 
