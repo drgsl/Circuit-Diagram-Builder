@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1610841063 source:p:\programming\cpp\fii\ip\_2020 electron\electron final\electron prof\unitedcode.cpp
+	<time.h>
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+	<string.h>
+
+1610841063 source:p:\programming\cpp\fii\ip\_2020 electron\electron final\electron\unitedcode.cpp
+	<time.h>
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+	<string.h>
+
